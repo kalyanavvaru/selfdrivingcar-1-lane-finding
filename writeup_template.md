@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[Lane detections]: ./test_images_output/solidWhiteCurve.jpg
+[Lane detections]: ./test_images_output/extrapolated_solidWhiteCurve.jpg
 
 
 ---
